@@ -48,7 +48,7 @@
 
 ### 👨‍💻 About Me
 
-```yaml
+
 Name     : Mohamed Maher Kassab
 Location : Egypt 🇪🇬
 Degree   : BSc in Artificial Intelligence
@@ -59,7 +59,7 @@ Current  : Data Analysis Lead
            @ Microsoft Student Club 2026
 Email    : m.kassab934@gmail.com
 Phone    : +20 100 139 9035
-```
+
 
 > *"Data doesn't lie — you just have to ask*
 > *it the right question"* 🔍

@@ -46,7 +46,9 @@
 <!--                        ABOUT ME                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img align="right" alt="Data Science GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+</div>
 
 ### 👨‍💻 About Me
 
@@ -66,7 +68,6 @@ Phone    : +20 100 139 9035
 > *"Data doesn't lie — you just have to ask*
 > *it the right question"* 🔍
 
-<br clear="right"/>
 
 ---
 

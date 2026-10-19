@@ -1,215 +1,147 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER BANNER                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- Animated profile by Mohamed Kassab -->
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Mohamed%20Kassab&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=⚡%20Data%20Analyst%20·%20ML%20Engineer%20·%20Power%20BI%20Developer%20⚡&descAlignY=68&descSize=18&animation=fadeIn&stroke=6C63FF&strokeWidth=2)
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TYPING ANIMATION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=F7931E&center=true&vCenter=true&multiline=false&random=false&width=500&height=55&lines=%F0%9F%94%A5+Raw+Data+%E2%86%92+Clear+Decisions;%F0%9F%A7%A0+ML+%7C+Statistics+%7C+Modeling;%F0%9F%93%8A+Power+BI+%7C+SQL+%7C+Python;%F0%9F%8F%86+Data+Lead+%40+Microsoft+Club;%F0%9F%8E%93+AI+Graduate+%7C+Egypt)](https://git.io/typing-svg)
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       PROFILE BADGES                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mohamed934789&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Mohamed934789?style=for-the-badge&color=F7931E&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Mohamed934789)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamedkaasab/)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED SNAKE GRAPH                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-![snake gif](https://github.com/Mohamed934789/Mohamed934789/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### 👨‍💻 About Me
-
-🎓 &nbsp;**BSc in Artificial Intelligence** — Kafrelsheikh University
-💼 &nbsp;**Data Analysis Lead** @ Microsoft Student Club *(2026 – Present)*
-🌍 &nbsp;Based in **Egypt** 🇪🇬
-📧 &nbsp;[m.kassab934@gmail.com](mailto:m.kassab934@gmail.com)
-📱 &nbsp;+20 100 139 9035
-💡 &nbsp;Passionate about turning messy data into clear, actionable decisions
-
-> *"Data doesn't lie — you just have to ask it the right question"* 🔍
-
-
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### ⚡ Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 📊 BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### 🧠 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:00F5D4,50:7B2FF7,100:00BBF9" width="100%"/>
+<h1>MOHAMED KASSAB</h1>
+<h3>AI Engineer in Progress · GenAI · RAG · AI Agents</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=650&color=00F5D4&center=true&vCenter=true&width=700&lines=Building+AI+systems%2C+not+just+chatbots.;From+LLMs+to+tools%2C+RAG+%26+agents.;Turning+ideas+into+useful+AI+products.;Python+%7C+FastAPI+%7C+LangChain+%7C+Docker" alt="Animated typing banner"/>
+<p>
+<a href="https://github.com/Mohamed934789?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-7B2FF7?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamedkaasab/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:m.kassab934@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-00BBF9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+<img src="https://komarev.com/ghpvc/?username=Mohamed934789&style=flat-square&color=7B2FF7&label=PROFILE+VIEWS"/>
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## ⚡ About Me
+
+I'm an Artificial Intelligence student at **Kafrelsheikh University, Egypt**, focused on building practical **Generative AI and AI Engineering** applications.
+
+I’m interested in the engineering that turns foundation models into useful systems: retrieval pipelines, tool-using agents, APIs, evaluation, and deployment. I like understanding how the components work—not just connecting APIs and calling it AI.
+
+- 🧠 **Focus:** LLM applications, Retrieval-Augmented Generation (RAG), AI agents
+- 🏗️ **Building with:** Python, LangChain, LangGraph, FastAPI, vector databases, Docker
+- 🎓 **Current chapter:** Final-year AI student · Samsung Innovation Campus AI Track
+- 🌍 **Open to:** AI / GenAI engineering internships, collaborations, practical projects
+
+> *Build systems that are useful, measurable, and explainable.*
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 [RAG Document Q&A](https://github.com/Mohamed934789/rag-doc-qa)
+A document question-answering pipeline that generates source-grounded answers from PDFs.
+
+- PDF ingestion, cleaning, chunking, and embeddings
+- Semantic retrieval with ChromaDB
+- Answers grounded in retrieved context
+- FastAPI service and Docker packaging
+
+**Stack:** Python · LangChain · OpenAI · ChromaDB · FastAPI · Docker
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [Signal — Streaming AI Agent](https://github.com/Mohamed934789/ai-agent-capstone)
+A full-stack agent that streams responses and tool activity live.
+
+- Custom agent execution loop
+- Tool calling and iterative execution
+- Streaming API responses with FastAPI
+- Next.js / TypeScript frontend
+
+**Stack:** Python · LangChain · FastAPI · Next.js · TypeScript
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕵️ [Fake Job Posting Detector](https://github.com/Mohamed934789/fake-job-detector)
+An ML app estimating whether a job listing is fraudulent, built for Samsung Innovation Campus.
+
+- 17,880 job listings analyzed
+- Multiple ML approaches and ensemble experiments
+- Stacking model: **0.850 F1 · 0.950 precision · 0.769 recall**
+- Interactive Streamlit prediction app
+
+**Stack:** Python · Pandas · scikit-learn · XGBoost · Streamlit
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [AI Multi-Model Assistant](https://github.com/Mohamed934789/AI-Multi-Model-Assistant)
+A modular app combining several AI capabilities in one interface.
+
+- Text generation and summarization
+- Sentiment analysis
+- Image captioning
+- Swappable model handlers
+
+**Stack:** Python · Streamlit · OpenAI API · Hugging Face
+
+</td>
+</tr>
+</table>
+
+### 📊 More Projects
+- 🧪 [Banking Transactions ETL Pipeline](https://github.com/Mohamed934789/-Banking-Transactions-ETL-Pipeline)
+- 📈 [Lung Cancer Data Analysis](https://github.com/Mohamed934789/Lung-Cancer-Data-Analysis)
+- 🛍️ [Online Retail Analysis](https://github.com/Mohamed934789/Online-Retail-Analysis)
+- 🧭 [Browse all repositories →](https://github.com/Mohamed934789?tab=repositories)
+
+---
+
+## 🧰 Technical Toolkit
+
 <div align="center">
 
-| 🏅 | Project | Stack | Key Highlights |
-|:---:|:---|:---|:---|
-| 🛒 | **Online Retail Sales & Customer Behavior** | Python · SQL · Power BI | RFM Segmentation · MoM/YoY Growth · Pareto 80/20 |
-| 🗺️ | **USA Regional Sales Analysis** | Python · SQL · Power BI | EDA 2014–2018 · Seasonality · KPI Dashboard |
-| 🏥 | **Healthcare Survival Risk Analytics** | Python · SQL · ML · Power BI | Logistic Regression · Random Forest · Risk Scoring |
+**AI / LLM Engineering**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github" alt="Python, FastAPI, Docker, Git, GitHub"/>
+
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-7B2FF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-00A67E?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+
+**Data & Machine Learning**
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20%7C%20ETL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamed934789&show_icons=true&theme=tokyonight&hide_border=true&title_color=F7931E&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed934789&theme=tokyonight&hide_border=true&ring=F7931E&fire=6C63FF&currStreakLabel=F7931E&background=0d1117&sideLabels=c9d1d9&dates=c9d1d9"/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed934789&layout=donut&theme=tokyonight&hide_border=true&title_color=F7931E&text_color=c9d1d9&bg_color=0d1117"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ACTIVITY GRAPH                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![Mohamed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamed934789&bg_color=0d1117&color=F7931E&line=6C63FF&point=ffffff&area=true&hide_border=true&area_color=6C63FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      EXPERIENCE                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 💼 Experience
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  🏅  Data Analysis Lead   —  Microsoft Student Club  2026-Now   ║
-║      ► Led the Data Analysis track & supervised projects         ║
-║      ► Designed SQL · Python · Power BI learning paths           ║
-║      ► Mentored students in end-to-end analytical projects       ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🎓  Data Analysis Mentor —  Microsoft Student Club  2025        ║
-║      ► Guided teams through real-world case studies              ║
-║      ► Conducted hands-on data cleaning & BI sessions            ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🌟  Member               —  Digital Egypt Pioneers  2024        ║
-║      ► Data validation, KPI reporting & analytical workflows     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     SKILLS PROGRESS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🎯 Skills Proficiency
-
-```text
-Python          ████████████████████░░░  85%
-SQL             ██████████████████████░  90%
-Power BI        █████████████████████░░  87%
-Machine Learning████████████████░░░░░░░  70%
-Excel           ████████████████████░░░  85%
-Tableau         ████████████████░░░░░░░  68%
-Statistical Analysis ████████████████░░  72%
-Data Storytelling    ███████████████████  92%
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CONNECT                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedkaasab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedkaasab/)
-[![GitHub](https://img.shields.io/badge/GitHub-Mohamed934789-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed934789)
-[![Gmail](https://img.shields.io/badge/Gmail-m.kassab934@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.kassab934@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B20_100_139_9035-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201001399035)
-
-</div>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamed934789&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B2FF7&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed934789&hide_border=true&background=0D1117&ring=7B2FF7&fire=00F5D4&currStreakLabel=00F5D4&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak"/>
 <br/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed934789&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed934789&bg_color=0D1117&color=00F5D4&line=7B2FF7&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Contribution activity graph"/>
+</div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED FOOTER                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
+
+## 🤝 Let's Build Something Useful
+
+I'm interested in practical AI products, open-source collaboration, and conversations about LLM applications, RAG, agents, and reliable AI systems.
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=F7931E&animation=fadeIn&fontAlignY=65)
-
+<a href="https://www.linkedin.com/in/mohamedkaasab/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:m.kassab934@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00BBF9,50:7B2FF7,100:00F5D4" width="100%" alt="Footer banner"/>
 </div>

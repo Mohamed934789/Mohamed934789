@@ -16,14 +16,22 @@
 
 ## ⚡ About Me
 
-I'm an Artificial Intelligence student at **Kafrelsheikh University, Egypt**, focused on building practical **Generative AI and AI Engineering** applications.
+I'm an Artificial Intelligence student at **Kafrelsheikh University, Egypt**, working toward becoming an **AI Engineer focused on Generative AI and production-ready LLM applications**.
 
-I’m interested in the engineering that turns foundation models into useful systems: retrieval pipelines, tool-using agents, APIs, evaluation, and deployment. I like understanding how the components work—not just connecting APIs and calling it AI.
+I’m especially interested in bridging the gap between foundation models and real products: building retrieval pipelines, connecting LLMs to tools and data, designing agent workflows, exposing capabilities through APIs, and evaluating whether a system is actually reliable. I care about understanding the engineering behind each component—not just calling an API and wrapping it in a UI.
 
-- 🧠 **Focus:** LLM applications, Retrieval-Augmented Generation (RAG), AI agents
-- 🏗️ **Building with:** Python, LangChain, LangGraph, FastAPI, vector databases, Docker
-- 🎓 **Current chapter:** Final-year AI student · Samsung Innovation Campus AI Track
-- 🌍 **Open to:** AI / GenAI engineering internships, collaborations, practical projects
+- 🧠 **Core interests:** Generative AI, LLM applications, RAG, AI agents, LLMOps
+- 🛠️ **Engineering toolkit:** Python, LangChain, LangGraph, FastAPI, vector databases, SQL, Docker, Git
+- 🎓 **Education:** BSc Artificial Intelligence, Kafrelsheikh University — final-year student
+- 🚀 **Current experience:** Samsung Innovation Campus AI Track trainee
+- 🤝 **Previously:** Data Analysis Mentor at Microsoft Student Club
+- 🌍 **Looking for:** AI / GenAI engineering internships, open-source collaboration, and opportunities to build useful AI products
+
+### What I enjoy building
+
+- **Knowledge systems** that retrieve relevant context and answer with supporting sources
+- **Tool-using AI agents** that can take structured steps and interact with APIs or data
+- **Practical ML applications** with measurable evaluation, clear interfaces, and deployable code
 
 > *Build systems that are useful, measurable, and explainable.*
 

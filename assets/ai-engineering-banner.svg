@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Kassab — AI Engineer</title>
+  <desc id="desc">Generative AI, retrieval systems and tool-using agents. A dark navy portfolio banner with teal and violet accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080f1d"/><stop offset="1" stop-color="#15162d"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <radialGradient id="aura"><stop stop-color="#5eead4" stop-opacity=".12"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a5b4fc" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1280" height="440" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="440" rx="24" fill="url(#grid)"/>
+  <circle cx="1010" cy="210" r="250" fill="url(#aura)"/>
+  <path d="M64 37H1216" stroke="url(#accent)" stroke-width="2" opacity=".7"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="64" y="83" fill="#7f91aa" font-size="14" letter-spacing="4">APPLIED AI · SOFTWARE · EVIDENCE</text>
+    <text x="59" y="164" fill="#f5f7fc" font-size="65" font-weight="700" letter-spacing="1">MOHAMED KASSAB</text>
+    <text x="64" y="230" fill="#5eead4" font-size="39" font-weight="600" letter-spacing="3">AI ENGINEER</text>
+    <text x="65" y="274" fill="#c0cbe0" font-size="20">Generative AI · Retrieval Systems · Tool-Using Agents</text>
+    <path d="M65 307H525" stroke="#38445c"/>
+    <text x="65" y="346" fill="#8e9fb9" font-size="18">Turning documents and models into useful software.</text>
+    <text x="65" y="399" fill="#71849d" font-size="13" letter-spacing="2">PYTHON  /  FASTAPI  /  RAG  /  AGENTS</text>
+    <g fill="none" stroke="#5eead4" stroke-opacity=".22">
+      <circle cx="1034" cy="212" r="129"/><circle cx="1034" cy="212" r="98" stroke-dasharray="3 11"/>
+      <path d="M846 106H910L941 151M1124 246L1174 292H1216M837 302H900L941 267"/>
+    </g>
+    <g fill="#0b1827" stroke="#35505b"><rect x="865" y="70" width="174" height="43" rx="10"/><rect x="1094" y="288" width="135" height="43" rx="10"/><rect x="828" y="300" width="165" height="43" rx="10"/></g>
+    <text x="884" y="97" fill="#a1b5c7" font-size="13" letter-spacing="1">DOCUMENT AI</text>
+    <text x="1114" y="315" fill="#a1b5c7" font-size="13" letter-spacing="1">EVIDENCE</text>
+    <text x="847" y="327" fill="#a1b5c7" font-size="13" letter-spacing="1">RETRIEVAL</text>
+    <rect x="906" y="169" width="256" height="83" rx="16" fill="#101e30" stroke="#547180"/>
+    <path d="M923 169H1145" stroke="url(#accent)" stroke-width="2"/>
+    <text x="1034" y="205" text-anchor="middle" fill="#e7eefb" font-size="20" font-weight="600" letter-spacing="2">MODEL × CODE</text>
+    <text x="1034" y="231" text-anchor="middle" fill="#96a9c1" font-size="12" letter-spacing="2">BUILD · CONNECT · VALIDATE</text>
+    <circle cx="1034" cy="83" r="4" fill="#a78bfa"/><circle cx="1163" cy="212" r="4" fill="#5eead4"/><circle cx="1034" cy="341" r="4" fill="#a78bfa"/>
+    <circle cx="983" cy="395" r="4" fill="#5eead4"/>
+    <text x="999" y="400" fill="#9aacbf" font-size="12" letter-spacing="1">OPEN TO INTERNSHIPS</text>
+  </g>
+</svg>

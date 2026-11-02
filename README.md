@@ -1,140 +1,164 @@
 <p align="center">
-  <img src="assets/ai-engineering-banner.svg" width="100%" alt="Mohamed Kassab — AI Engineer. Generative AI, retrieval systems and tool-using agents." />
+  <img src="assets/ai-engineering-banner.svg" width="100%" alt="Mohamed Kassab — AI Engineer | Generative AI, retrieval systems and tool-using agents" />
 </p>
 
 <p align="center">
-  <strong>Practical AI applications. Clear engineering. Evidence you can inspect.</strong>
+  <a href="https://github.com/Mohamed934789?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-GitHub-111827?style=for-the-badge&logo=github" alt="GitHub repositories" /></a>
+  <a href="https://www.linkedin.com/in/mohamedkaasab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:m.kassab934@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <a href="#featured-project-tenderproof-ai">TenderProof AI</a> &nbsp; / &nbsp;
-  <a href="#selected-projects">Selected Projects</a> &nbsp; / &nbsp;
-  <a href="#engineering-toolkit">Toolkit</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/mohamedkaasab/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:m.kassab934@gmail.com">Contact</a>
+  <strong>Building practical AI applications with clear workflows, grounded outputs, and evidence you can inspect.</strong>
+</p>
+
+<p align="center">
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#featured-work">Featured work</a> &nbsp;·&nbsp;
+  <a href="#technical-toolkit">Toolkit</a> &nbsp;·&nbsp;
+  <a href="#currently-exploring">Currently exploring</a>
 </p>
 
 ---
 
-## About me
+## About
 
-I'm **Mohamed Kassab**, a final-year Artificial Intelligence student at **Kafrelsheikh University, Egypt**, focused on **AI engineering, Generative AI, retrieval-augmented generation, and tool-using agents**.
+I'm **Mohamed Kassab**, a final-year Artificial Intelligence student at **Kafrelsheikh University, Egypt**, focused on applied AI engineering — especially **Generative AI, retrieval-augmented generation (RAG), document intelligence, and tool-using agents**.
 
-I enjoy the work that connects a model to a useful application: preparing documents, designing retrieval and tool workflows, defining structured outputs, connecting APIs, and making results understandable to the person using them.
+I like working across the full application path: understanding a problem, preparing data and documents, designing model and tool workflows, building APIs, validating outputs, and presenting results in an interface people can actually use.
 
-| Focus | What I work on |
-| --- | --- |
-| **Document AI & RAG** | PDF processing, retrieval pipelines, structured information, and source-linked findings |
-| **Agents & applications** | Tool calling, Python orchestration, FastAPI services, and practical interfaces |
-| **Machine learning & data** | Feature engineering, classification, evaluation, SQL, and analytics |
+**Current direction:** Junior AI Engineer · GenAI Engineer · LLM Application Engineer
 
-**Background:** Samsung Innovation Campus AI Track and team projects · Previously Data Analysis Mentor at Microsoft Student Club.
+**Background:** Samsung Innovation Campus — AI Track · Former Data Analysis Mentor at Microsoft Student Club, Kafrelsheikh University.
 
-**Open to:** AI / GenAI engineering internships, junior opportunities, and open-source collaboration.
+---
 
-## Featured project: TenderProof AI
+## Featured work
 
-<table>
-<tr>
-<td>
-
-### [TenderProof AI — Arabic Tender & Evidence Review](https://github.com/Mohamed934789/TenderProof-Core)
-
-**Document AI · Structured LLM workflows · Evidence verification**
-
-A five-member **Samsung Innovation Campus** team project that helps reviewers compare Arabic tender requirements with company documents before submitting a bid.
-
-**Tender PDF + company PDFs → requirement extraction → evidence matching → validation → review report**
-
-- Extracts eligibility conditions, technical requirements, and bill-of-quantities items.
-- Connects findings to **document names, original quotations, and PDF page numbers**.
-- Separates supported findings, missing evidence, contradictions, and cases needing human review.
-- Provides an Arabic RTL review workspace, saved synthetic demo scenarios, and structured JSON reports.
-
-**My focus within the team:** orchestration, validation, and integration — connecting the AI stages and their shared contracts to the application workflow.
-
-**Stack:** Python · OpenAI API · pypdf · FastAPI · Streamlit · Docker · Optional MLflow
-
-[Explore the project](https://github.com/Mohamed934789/TenderProof-Core) · [Architecture](https://github.com/Mohamed934789/TenderProof-Core#architecture) · [Demo walkthrough](https://github.com/Mohamed934789/TenderProof-Core/blob/main/docs/DEMO_REHEARSAL.md) · [Evaluation notes](https://github.com/Mohamed934789/TenderProof-Core/blob/main/docs/TENDERPROOF_BENCHMARK_FINAL_REPORT.md)
+### TenderProof AI
+**Arabic tender intelligence · Evidence-backed document review · Samsung Innovation Campus**
 
 <a href="https://github.com/Mohamed934789/TenderProof-Core">
-  <img src="https://raw.githubusercontent.com/Mohamed934789/TenderProof-Core/main/docs/evidence/case_101-final-evidence.png" width="100%" alt="TenderProof AI: Arabic evidence inspector with requirement status, original quotations and PDF page references." />
+  <img src="https://raw.githubusercontent.com/Mohamed934789/TenderProof-Core/main/docs/evidence/case_101-final-evidence.png" width="100%" alt="TenderProof AI evidence inspector showing requirement status, source quotations and PDF page references" />
 </a>
 
-<p align="center"><sub>Actual application screenshot · Saved synthetic demo · Human review remains part of the workflow.</sub></p>
+A five-member team project that helps bid reviewers compare Arabic tender requirements with company documents. The workflow extracts requirements, matches supporting evidence, validates references, and presents findings in an Arabic review workspace.
 
-</td>
-</tr>
-</table>
+- Links findings to **source documents, original quotations, and PDF page numbers**.
+- Distinguishes **satisfied**, **contradicted**, **missing evidence**, and **needs review** outcomes.
+- Includes a FastAPI service, Streamlit RTL interface, structured JSON reports, Docker setup, and saved synthetic demo scenarios.
+- **My contribution:** orchestration, validation, shared contracts, and integration across the application workflow.
+
+<sub>Python · OpenAI API · FastAPI · Streamlit · pypdf · Docker · MLflow</sub>
+
+[Repository](https://github.com/Mohamed934789/TenderProof-Core) · [Architecture](https://github.com/Mohamed934789/TenderProof-Core#architecture) · [Demo walkthrough](https://github.com/Mohamed934789/TenderProof-Core/blob/main/docs/DEMO_REHEARSAL.md) · [Evaluation report](https://github.com/Mohamed934789/TenderProof-Core/blob/main/docs/TENDERPROOF_BENCHMARK_FINAL_REPORT.md)
+
+<sub>Note: this is a decision-support prototype using saved synthetic demo cases. It is not a legal eligibility guarantee or an autonomous bid-approval system.</sub>
+
+---
 
 ## Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Mohamed934789/rag-doc-qa">RAG Document Q&amp;A</a></h3>
-<p><strong>Retrieval-augmented generation prototype</strong></p>
-<p>A modular PDF question-answering project covering document processing, chunking, embeddings, Chroma retrieval, and a FastAPI backend.</p>
-<p><strong>Engineering focus:</strong> connecting the document-to-retrieval-to-generation pipeline.</p>
-<p><sub>Python · LangChain · OpenAI · ChromaDB · FastAPI</sub></p>
-<p><a href="https://github.com/Mohamed934789/rag-doc-qa">Explore repository →</a></p>
+
+### [RAG Document Q&A](https://github.com/Mohamed934789/rag-doc-qa)
+
+A modular PDF question-answering system that retrieves relevant passages and generates answers grounded in document content.
+
+- End-to-end ingestion, cleaning, chunking, embeddings, and vector retrieval.
+- Deterministic chunk IDs for idempotent indexing.
+- Grounded-answer behavior and retrieval evaluation harness.
+- FastAPI endpoints and Docker packaging.
+
+<sub>Python · LangChain · OpenAI · ChromaDB · FastAPI · Docker</sub>
+
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Mohamed934789/signal-ai-agent">Signal — AI Agent</a></h3>
-<p><strong>Tool-calling application prototype</strong></p>
-<p>A custom LangChain agent loop with tool calling, a streaming FastAPI backend, and a Next.js / TypeScript interface.</p>
-<p><strong>Engineering focus:</strong> connecting agent execution to an interactive application.</p>
-<p><sub>Python · LangChain · FastAPI · Next.js · TypeScript</sub></p>
-<p><a href="https://github.com/Mohamed934789/signal-ai-agent">Explore repository →</a></p>
+
+### [Signal — Streaming AI Agent](https://github.com/Mohamed934789/signal-ai-agent)
+
+A full-stack tool-calling agent with a custom execution loop and genuine token streaming.
+
+- Custom agent loop without LangChain AgentExecutor.
+- Tool calling for arithmetic and web search.
+- FastAPI streaming over Server-Sent Events.
+- Next.js / TypeScript interface with live tool activity.
+
+<sub>Python · LangChain · FastAPI · Next.js · TypeScript · SSE</sub>
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Mohamed934789/fake-job-detector">Fake Job Posting Detector</a></h3>
-<p><strong>Classical ML application · Samsung Innovation Campus</strong></p>
-<p>Job-posting classification using text and metadata features, TF-IDF, stacking, and a Streamlit prediction interface.</p>
-<p><strong>Engineering focus:</strong> shared feature engineering across training and inference.</p>
-<p><sub>Python · scikit-learn · XGBoost · Pandas · Streamlit</sub></p>
-<p><a href="https://github.com/Mohamed934789/fake-job-detector">Explore repository →</a></p>
+
+### [Fake Job Posting Detector](https://github.com/Mohamed934789/fake-job-detector)
+
+A Samsung Innovation Campus ML project for identifying potentially fraudulent job advertisements.
+
+- Worked with the EMSCAD dataset: 17,880 postings.
+- Compared classical ML approaches and a stacking ensemble.
+- Reported test metrics: **0.850 F1** and **0.983 ROC-AUC**.
+- Streamlit interface for fraud-risk scoring.
+
+<sub>Python · scikit-learn · XGBoost · Pandas · Streamlit</sub>
+
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Mohamed934789/AI-Multi-Model-Assistant">Multi-Model AI Assistant</a></h3>
-<p><strong>Hosted-model integration prototype</strong></p>
-<p>A Streamlit learning project exploring text generation, summarization, sentiment analysis, and image captioning through model APIs.</p>
-<p><strong>Engineering focus:</strong> task-specific model handlers and application integration.</p>
-<p><sub>Python · Streamlit · OpenAI API · Hugging Face</sub></p>
-<p><a href="https://github.com/Mohamed934789/AI-Multi-Model-Assistant">Explore repository →</a></p>
+
+### [AI Multi-Model Assistant](https://github.com/Mohamed934789/AI-Multi-Model-Assistant)
+
+A Streamlit application integrating hosted model APIs for multiple AI tasks.
+
+- Text generation and summarization.
+- Sentiment analysis and image captioning.
+- Task-specific handlers and modular application flow.
+
+<sub>Python · Streamlit · OpenAI API · Hugging Face</sub>
+
 </td>
 </tr>
 </table>
 
-Explore each repository for setup instructions, evaluation evidence, and current limitations.
-
 ### Supporting engineering & analytics
 
-| Project | Area |
+| Project | Focus |
 | --- | --- |
-| [Banking Transactions ETL](https://github.com/Mohamed934789/-Banking-Transactions-ETL-Pipeline) | Learning integration of Airflow, Hadoop, PySpark, and Snowflake |
-| [Online Retail Analysis](https://github.com/Mohamed934789/Online-Retail-Analysis) | Python / SQL transaction analysis and business reporting |
+| [Banking Transactions ETL Pipeline](https://github.com/Mohamed934789/-Banking-Transactions-ETL-Pipeline) | Data pipeline integration with PySpark, Airflow, HDFS, and Snowflake |
+| [Online Retail Analysis](https://github.com/Mohamed934789/Online-Retail-Analysis) | Transaction analysis and business-oriented insights |
 
 [Browse all repositories →](https://github.com/Mohamed934789?tab=repositories)
 
-## Engineering toolkit
+---
 
-| Area | Technologies used across my projects |
+## Technical toolkit
+
+| Area | Technologies |
 | --- | --- |
-| **AI applications** | Python · OpenAI API · LangChain · ChromaDB · Hugging Face |
-| **Backend & delivery** | FastAPI · Streamlit · Docker · Git · GitHub |
-| **ML & analytics** | scikit-learn · XGBoost · Pandas · NumPy · SQL · Power BI |
-| **Application interfaces** | Next.js · TypeScript · Arabic RTL interfaces |
-| **Experiment tracking** | MLflow · SQLite |
-
-**Currently exploring:** LangGraph, LLMOps, grounded-answer evaluation, and more reliable agent workflows.
+| **Languages** | Python · C++ · SQL |
+| **Generative AI** | LLM APIs · RAG · Embeddings · Vector Search · Tool Calling · Agent Workflows |
+| **AI & ML** | LangChain · scikit-learn · XGBoost · TensorFlow · NLP |
+| **Backend & apps** | FastAPI · Streamlit · REST APIs |
+| **Data** | Pandas · NumPy · PySpark · Power BI |
+| **Engineering tools** | Git · GitHub · Docker · Apache Airflow · ChromaDB |
 
 ---
 
-## Let's build something useful
+## Currently exploring
 
-I'm looking for opportunities to contribute to practical AI systems, learn from an engineering team, and turn document, language, and data problems into useful applications.
+- **InsightOps AI** — an early-stage GenAI project exploring business and market intelligence over internal data and external research.
+- More reliable agent orchestration and tool execution.
+- Grounded-answer evaluation, observability, and practical LLMOps.
 
-**[LinkedIn](https://www.linkedin.com/in/mohamedkaasab/)** &nbsp; · &nbsp; **[Email](mailto:m.kassab934@gmail.com)** &nbsp; · &nbsp; **[GitHub](https://github.com/Mohamed934789)**
+---
+
+## Let's connect
+
+I'm open to **AI / Generative AI internships, junior engineering opportunities, and meaningful open-source collaboration**.
+
+<p>
+  <a href="https://www.linkedin.com/in/mohamedkaasab/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:m.kassab934@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Mohamed934789">GitHub</a>
+</p>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 48" role="img" aria-labelledby="title">
+<title id="title">Hi, I'm Mohamed. Exploring RAG, agents and LLM engineering.</title>
+<style>
+.reveal{animation:type 5s steps(58,end) 1}
+.cursor{animation:blink 1s step-end 5;opacity:0}
+@keyframes type{from{width:0}to{width:680px}}
+@keyframes blink{50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.reveal,.cursor{animation:none}}
+</style>
+<defs><clipPath id="reveal"><rect class="reveal" width="680" height="48"/></clipPath></defs>
+<rect width="680" height="48" rx="8" fill="#0B1220"/>
+<text clip-path="url(#reveal)" x="16" y="30" fill="#70DEEA" font-family="Consolas,monospace" font-size="17">Hi, I'm Mohamed. Exploring RAG, agents &amp; LLM engineering.</text>
+<path class="cursor" d="M659 15V34" stroke="#A78BFA" stroke-width="2"/>
+</svg>

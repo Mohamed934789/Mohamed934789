@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 350" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Mohamed Kassab — aspiring AI Engineer</title>
+<desc id="desc">Dark navy portfolio banner with a cyan and violet neural orbit. Building practical AI applications.</desc>
+<defs>
+ <linearGradient id="bg" x2="960" y2="350" gradientUnits="userSpaceOnUse"><stop stop-color="#070D19"/><stop offset="1" stop-color="#11142D"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#50E4F2"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#245D80" stop-opacity=".4"/><stop offset="1" stop-color="#0A1020" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#8FA8D1" stroke-opacity=".045"/></pattern>
+</defs>
+<style>
+.orbit{transform-origin:780px 173px;animation:orbit 28s linear infinite}
+.pulse{animation:pulse 5s ease-in-out infinite}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@keyframes pulse{50%{opacity:.45}}
+@media(prefers-reduced-motion:reduce){.orbit,.pulse{animation:none}}
+</style>
+<rect width="960" height="350" rx="20" fill="url(#bg)"/>
+<rect width="960" height="350" rx="20" fill="url(#grid)"/>
+<circle cx="780" cy="173" r="240" fill="url(#glow)"/>
+<path d="M32 1H928" stroke="url(#accent)" stroke-opacity=".7"/>
+<path d="M48 62H78" stroke="#50E4F2" stroke-width="3"/>
+<text x="91" y="67" fill="#99ADCA" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">AI ENGINEERING PORTFOLIO</text>
+<text x="46" y="145" fill="#F0F6FC" font-family="Arial,sans-serif" font-size="59" font-weight="700" letter-spacing="-2">Mohamed Kassab</text>
+<text x="49" y="190" fill="#50E4F2" font-family="Arial,sans-serif" font-size="23">Building practical AI applications.</text>
+<text x="49" y="232" fill="#A5B4CC" font-family="Arial,sans-serif" font-size="16">AI student / aspiring AI Engineer</text>
+<path d="M49 267H571" stroke="#26354B"/>
+<text x="49" y="303" fill="#B5C3D8" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">GENERATIVE AI  /  RETRIEVAL  /  AGENTS</text>
+<g stroke="url(#accent)">
+ <circle cx="780" cy="173" r="110" opacity=".16"/>
+ <circle cx="780" cy="173" r="84" opacity=".3"/>
+ <ellipse cx="780" cy="173" rx="112" ry="40" transform="rotate(-35 780 173)" opacity=".6"/>
+ <ellipse cx="780" cy="173" rx="112" ry="40" transform="rotate(35 780 173)" opacity=".4"/>
+ <path d="M726 139L817 126L837 203L748 225Z M726 139L837 203M817 126L748 225" opacity=".35"/>
+</g>
+<g class="orbit"><circle cx="780" cy="63" r="5" fill="#50E4F2"/><circle cx="780" cy="283" r="4" fill="#A78BFA"/></g>
+<g fill="#50E4F2"><circle cx="726" cy="139" r="4"/><circle cx="837" cy="203" r="4"/></g>
+<g fill="#A78BFA"><circle cx="817" cy="126" r="4"/><circle cx="748" cy="225" r="4"/></g>
+<circle class="pulse" cx="780" cy="173" r="20" fill="#50E4F2" fill-opacity=".1" stroke="#50E4F2" stroke-opacity=".6"/>
+<path d="M770 173H790M780 163V183" stroke="#C7FAFF" stroke-width="2"/>
+</svg>

@@ -58,7 +58,7 @@ I’m interested in the engineering behind useful AI products: connecting LLMs t
 <div align="center">
 
 ### ⚡ Languages & Development
-<img src="https://skillicons.dev/icons?i=python,cpp, fastapi,docker,git,github" alt="Programming and development tools"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,docker,git,github" alt="Programming and development tools"/>
 
 ### 🧠 AI, LLM & Data
 <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
